@@ -1,5 +1,6 @@
 # Hadoop & Spark-Based Image Compression
-![image](https://github.com/user-attachments/assets/f8b8746b-29b9-41d7-a44d-cee00fe658a8)
+![image](https://github.com/user-attachments/assets/c9bc801f-28dd-4fb5-b038-a1d7871ea37b)
+
 
 ## 📌 Project Overview
 This project implements an image compression pipeline using **Hadoop** and **Apache Spark** in a **multi-node cluster** environment. The goal is to explore how Big Data technologies can be leveraged for efficient, distributed image compression using **JPEG2000 (Spark)** and **JPEG (MapReduce)**.
