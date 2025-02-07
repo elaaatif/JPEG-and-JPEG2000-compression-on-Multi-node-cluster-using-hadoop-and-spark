@@ -4,6 +4,7 @@
 
 ## 📌 Project Overview
 This project implements an image compression pipeline using **Hadoop** and **Apache Spark** in a **multi-node cluster** environment. The goal is to explore how Big Data technologies can be leveraged for efficient, distributed image compression using **JPEG2000 (Spark)** and **JPEG (MapReduce)**.
+- find the execution videos for both jobs on the playlist : https://youtube.com/playlist?list=PLBJKqLIo6Tc9O80NMt_BO0LDYmf-k-c_T&si=k80_PjS8aWqYvVbb
 
 ## 🎯 Objectives
 - **Deploy a Multi-Node Hadoop Cluster**: Setup and configure Hadoop & Spark for distributed processing.
