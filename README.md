@@ -84,6 +84,6 @@ Both **Hadoop MapReduce** and **Spark** offer efficient distributed image compre
 ## 👥 Contributors
 - **Abdelatif Mekri**
 - **Halima Nfidsa**
-- **Imad Eddine Boukader**
+- [**Imad Eddine Boukader**](https://github.com/ispollin)
 - **Nahla Yasmine Mihoubi**
 
